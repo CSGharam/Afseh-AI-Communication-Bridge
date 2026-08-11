@@ -33,17 +33,19 @@ Deployment
 🌍 Social Impact
 Afseh aims to make communication easier and more accessible for individuals with speech difficulties.
 By combining Artificial Intelligence, speech recognition, text correction, and mobile technology, the project provides a practical solution for converting unclear speech into clearer text and audio.
-🔮 Future Work
+
+##🔮 Future Work
 Future improvements include:
-Using more advanced AI models.
-Improving transcription accuracy.
-Better handling of different accents.
-Better performance in noisy environments.
-Supporting multiple languages.
-Adding offline processing.
-Adding a dashboard for users to manage their audio history.
-Improving security and privacy controls.
-Strengthening data protection and encryption.
+- Using more advanced AI models.
+- Improving transcription accuracy.
+- Better handling of different accents.
+- Better performance in noisy environments.
+- Supporting multiple languages.
+- Adding offline processing.
+- Adding a dashboard for users to manage their audio history.
+- Improving security and privacy controls.
+- Strengthening data protection and encryption.
+  
 🎓 University
 Taibah University
 College of Computer Science and Engineering
