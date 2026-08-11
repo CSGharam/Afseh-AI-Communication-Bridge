@@ -34,7 +34,7 @@ Deployment
 Afseh aims to make communication easier and more accessible for individuals with speech difficulties.
 By combining Artificial Intelligence, speech recognition, text correction, and mobile technology, the project provides a practical solution for converting unclear speech into clearer text and audio.
 
-##🔮 Future Work
+🔮 Future Work
 Future improvements include:
 - Using more advanced AI models.
 - Improving transcription accuracy.
