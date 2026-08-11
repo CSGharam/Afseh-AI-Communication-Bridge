@@ -53,22 +53,26 @@ Future improvements include:
 - Strengthening data protection and encryption.
   
 🎓 University
+
 Taibah University
-College of Computer Science and Engineering
-Computer Science Program – Female Section
-Academic Year: 1447 AH / 2026
+- College of Computer Science and Engineering
+- Computer Science Program – Female Section
+- Academic Year: 1447 AH / 2026
+
 📄 Project Documentation
 The project repository includes the project poster and documentation.
-Afseh-Project-Poster.pdf
-Project Final Report
+- Afseh-Project-Poster.pdf
+- Project Final Report
+
 👩‍💻 Project Team
 The project was developed by:
-Albandary
-Gharam
-Reema
-Lina
-Nada
-Atheer
-Abeer
+- Albandary
+- Gharam
+- Reema
+- Lina
+- Nada
+- Atheer
+- Abeer
+
 👨‍🏫 Supervisor
 Dr. Jaber Faraj Jaber Almutairi
